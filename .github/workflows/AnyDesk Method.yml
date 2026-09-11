@@ -16,7 +16,8 @@ jobs:
     timeout-minutes: 190
     env:
       ANYDESK_PASS: Pass@1234
-      RUNTIME_MINUTES: 900
+      RUNTIME_MINUTES: 999
+  
   
 
     steps:
